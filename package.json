@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/DanielPDWalker/Moon_Miner-JS-ES6-Idlegame#readme",
   "devDependencies": {
-    "jest": "^26.4.2"
+    "jest": "^29.7.0"
   }
 }
